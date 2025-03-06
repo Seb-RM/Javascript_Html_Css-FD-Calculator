@@ -15,7 +15,6 @@
 - **HTML**: Estructura de la aplicación. 🏗️
 - **CSS**: Estilos y animaciones para una experiencia visual atractiva. 🎨
 - **JavaScript**: Lógica de cálculo y manipulación del DOM. 🧩
-- **Google Fonts**: Fuentes modernas para mejorar la legibilidad. ✒️
 - **Gradientes y animaciones CSS**: Efectos visuales dinámicos. 🌈
 
 ## 🧩 Funcionamiento
