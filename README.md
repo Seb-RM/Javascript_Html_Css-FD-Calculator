@@ -134,7 +134,7 @@ Se usa `toLocaleString()` para formatear los montos como pesos argentinos (ARS),
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/fixed-deposit-calculator.git
+git clone https://github.com/Seb-RM/Javascript_Html_Css-FD-Calculator.git
 ```
 
 2. Abre el proyecto en tu editor de código favorito.
